@@ -1,0 +1,1 @@
+<p>{$CodeStudent}</p>

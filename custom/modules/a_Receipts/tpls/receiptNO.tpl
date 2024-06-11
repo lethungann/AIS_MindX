@@ -1,0 +1,1 @@
+<p>{$receiptNO}</p>

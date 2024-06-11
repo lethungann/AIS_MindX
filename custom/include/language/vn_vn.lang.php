@@ -1,0 +1,59 @@
+<?php
+$app_strings['LBL_GROUPTAB0_1701284877'] = 'Phiếu chứng từ';
+$app_strings['LBL_GROUPTAB1_1701284877'] = 'Khác';
+$app_strings['LBL_GROUPTAB1_1701769468'] = 'Sổ sách / Báo cáo';
+$app_strings['LBL_GROUPTAB2_1701769468'] = 'Phân bổ cuối kỳ';
+$app_strings['LBL_GROUPTAB3_1701769468'] = 'Kết chuyển cuối kỳ';
+$app_strings['NTC_WELCOME'] = 'Xin chào';
+$app_strings['LBL_LOGOUT'] = 'Đăng xuất';
+$app_strings['LBL_EMPLOYEES'] = 'Nhân viên';
+$app_strings['LBL_SERVER_RESPONSE_TIME'] = 'CÔNG TY CỔ PHẦN TRƯỜNG HỌC CÔNG NGHỆ MINDX<br>Thời gian phản hồi của máy chủ:';
+$app_strings['LBL_ADMIN'] = 'Quản lý';
+$app_strings['LBL_PRINT'] = 'In màn hình';
+$app_strings['LNK_BACKTOTOP'] = 'Quay lên đầu';
+$app_strings['LBL_HOME'] = 'Trang chủ';
+$app_strings['LNK_ADVANCED_SEARCH'] = 'Tìm kiếm nâng cao';
+$app_strings['LNK_BASIC_SEARCH'] = 'Tìm kiếm cơ bản';
+$app_strings['LNK_SEARCH_NONFTS_VIEW_ALL'] = 'Hiển thị tất cả';
+$app_strings['LNK_CLOSE'] = 'Đóng';
+$app_strings['LNK_DELETE'] = 'Xóa';
+$app_strings['LNK_EDIT'] = 'Chỉnh sửa';
+$app_strings['LNK_CREATE'] = 'Tạo mới';
+$app_strings['LNK_LIST_END'] = 'Kết thúc';
+$app_strings['LNK_LIST_START'] = 'Đầu tiên';
+$app_strings['LNK_LIST_NEXT'] = 'Kế tiếp';
+$app_strings['LNK_LIST_PREVIOUS'] = 'Về trước';
+$app_strings['LNK_LIST_RETURN'] = 'Quay lại danh sách';
+$app_strings['LNK_PRINT'] = 'In ra';
+$app_strings['LNK_REMOVE'] = 'Loại bỏ';
+$app_strings['LNK_VIEW_CHANGE_LOG'] = 'Xem lịch sử thay đổi';
+$app_strings['LBL_TOUR_NEXT'] = 'Kế tiếp';
+$app_strings['LBL_TOUR_SKIP'] = 'Bỏ qua';
+$app_strings['LBL_TOUR_BACK'] = 'Quay lại';
+$app_strings['LBL_TOUR_CLOSE'] = 'Đóng';
+$app_strings['LBL_ADD'] = 'Thêm';
+$app_strings['LBL_ADD'] = 'Thêm';
+$app_strings['LBL_ADVANCED'] = 'Nâng cao';
+$app_strings['LBL_BASIC'] = 'Đơn giản';
+$app_strings['LBL_ID_FF_SELECT'] = 'Chọn';
+$app_strings['DEFAULT'] = 'Cơ bản';
+$app_strings['LBL_NO_DATA'] = 'Không có dữ liệu';
+$app_strings['LBL_LINK_ALL'] = 'Tất cả';
+$app_strings['LBL_LINK_SELECT'] = 'Lựa chọn';
+$app_strings['LBL_LINK_ACTIONS'] = 'Thao tác';
+$app_strings['LBL_LINK_MORE'] = 'Xem thêm';
+$app_strings['LBL_CLOSE_ACTIVITY_HEADER'] = 'Xác nhận';
+$app_strings['LBL_CLOSE_ACTIVITY_CONFIRM'] = 'Bạn có muốn đóng #module#?';
+$app_strings['LBL_PROFILE'] = 'Thông tin cá nhân';
+$app_strings['LBL_EDIT_BUTTON'] = 'Chỉnh sửa';
+$app_strings['LBL_DUPLICATE_BUTTON'] = 'Nhân bản';
+$app_strings['LBL_DELETE_BUTTON'] = 'Xóa';
+$app_strings['LBL_EXPORT'] = 'Xuất';
+$app_strings['LBL_MODIFY_CURRENT_SEARCH'] = 'Chỉnh sửa phiên bản tìm kiếm hiện tại';
+$app_strings['LBL_SAVE_SEARCH_AS'] = 'Lưu phiên bản tìm kiếm';
+$app_strings['LBL_LOADING_PAGE'] = 'Đang tải trang, vui lòng đợi ...';
+
+$app_list_strings['moduleList']['Home'] = "Trang chủ";
+
+
+?>

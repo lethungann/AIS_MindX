@@ -1,0 +1,1 @@
+<p>{$AccountReceivableNO}</p>

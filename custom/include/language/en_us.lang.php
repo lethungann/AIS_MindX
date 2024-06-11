@@ -1,0 +1,1 @@
+<?php$app_strings['LBL_GROUPTAB0_1701284877'] = 'Accounting Document';$app_strings['LBL_GROUPTAB1_1701284877'] = 'Other';$app_strings['LBL_GROUPTAB1_1701769468'] = 'Book report';$app_strings['LBL_GROUPTAB2_1701769468'] = 'Allocation Entry';$app_strings['LBL_GROUPTAB3_1701769468'] = 'Closing entries';?>

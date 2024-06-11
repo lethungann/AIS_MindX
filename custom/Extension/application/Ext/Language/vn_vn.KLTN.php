@@ -1,0 +1,77 @@
+<?php
+$app_list_strings['moduleList']['a_Students'] = 'Học Viên';
+$app_list_strings['moduleList']['a_Class'] = 'Lớp HỌc';
+$app_list_strings['moduleList']['a_Invoice'] = 'Hóa Đơn';
+$app_list_strings['moduleList']['a_Contracts'] = 'Hợp Đồng';
+$app_list_strings['moduleList']['a_Receipts'] = 'Phiếu Thu';
+$app_list_strings['moduleList']['a_Payments'] = 'Phiếu Chi';
+$app_list_strings['moduleList']['a_AccountReceivable'] = 'Công Nợ';
+$app_list_strings['moduleList']['a_ChartOfAccount'] = 'Danh Mục Tài Khoản';
+$app_list_strings['moduleList']['a_Asset'] = 'Tài Sản';
+$app_list_strings['moduleList']['a_Budget'] = 'Dự Chi Ngân Sách';
+$app_list_strings['moduleList']['a_Suppliers'] = 'Nhà Cung Cấp';
+$app_list_strings['moduleList']['a_Bookkeeping'] = 'Sổ Sách';
+$app_list_strings['moduleList']['a_Reports'] = 'Báo Cáo';
+$app_list_strings['student_gender_list']['Nu'] = 'Nữ';
+$app_list_strings['student_gender_list']['Nam'] = 'Nam';
+$app_list_strings['class_status_list']['ChuanBi'] = 'Chuẩn bị';
+$app_list_strings['class_status_list']['DangHoatDong'] = 'Đang hoạt động ';
+$app_list_strings['class_status_list']['DaKetThuc'] = 'Đã kết thúc';
+$app_list_strings['class_status_list']['DaHuy'] = 'Đã hủy';
+$app_list_strings['payment_method_list']['TienMat'] = 'Tiền mặt';
+$app_list_strings['payment_method_list']['ChuyenKhoan'] = 'Chuyển khoản';
+$app_list_strings['invoice_status_list']['Nhap'] = 'Nháp';
+$app_list_strings['invoice_status_list']['TraGop'] = 'Trả góp';
+$app_list_strings['invoice_status_list']['DaTraHet'] = 'Đã trả hết';
+$app_list_strings['invoice_status_list']['DaHuy'] = 'Đã hủy';
+$app_list_strings['status_list']['ChuaKy'] = 'Chưa ký ';
+$app_list_strings['status_list']['DaKy'] = 'Đã ký';
+$app_list_strings['status_list']['HetHan'] = 'Đã kết thúc';
+$app_list_strings['receipt_status_list']['DaThu'] = 'Đã thu';
+$app_list_strings['receipt_status_list']['Huy'] = 'Hủy';
+$app_list_strings['payment_status_list']['Nhap'] = 'Nháp';
+$app_list_strings['payment_status_list']['DaChi'] = 'Đã chi';
+$app_list_strings['payment_status_list']['Huy'] = 'Hủy';
+$app_list_strings['account_receipt_status_list']['ChuaHoanThanh'] = 'Chưa hoàn thành';
+$app_list_strings['account_receipt_status_list']['DaHoanThanh'] = 'Đã hoàn thành';
+$app_list_strings['account_receipt_status_list']['ThanhToanQuaMuc'] = 'Thanh toán quá mức';
+$app_list_strings['account_receipt_status_list']['QuaHan'] = 'Quá hạn';
+$app_list_strings['account_receipt_status_list']['DaHuy'] = 'Đã hủy';
+$app_list_strings['asset_status_list']['ChuaSuDung'] = 'Chưa sử dụng';
+$app_list_strings['asset_status_list']['DangSuDung'] = 'Đang sử dụng';
+$app_list_strings['asset_status_list']['HetHan'] = 'Hết hạn';
+$app_list_strings['asset_status_list']['Huy'] = 'Hủy';
+$app_list_strings['budget_status_list']['DaPheDuy'] = 'Đã phê duyệt';
+$app_list_strings['budget_status_list']['ChuaPheDuyet'] = 'Chưa phê duyệt';
+$app_list_strings['budget_status_list']['DangThucHien'] = 'Đang thực hiện';
+$app_list_strings['budget_status_list']['DaKetThuc'] = 'Đã kết thúc';
+$app_list_strings['budget_status_list']['Huy'] = 'Hủy';
+$app_list_strings['bookkeeping_type_list']['SoCai'] = 'Sổ cái';
+$app_list_strings['bookkeeping_type_list']['NhatKyChung'] = 'Nhật ký chung';
+$app_list_strings['bookkeeping_type_list']['NhatKyThuTien'] = 'Nhật ký thu tiền';
+$app_list_strings['bookkeeping_type_list']['NhatKyChiTien'] = 'Nhật ký chi tiền';
+$app_list_strings['bookkeeping_type_list']['Khac'] = 'Khác';
+$app_list_strings['report_type_list']['DoanhThu'] = 'Báo cáo kết quả hoạt động kinh doanh';
+$app_list_strings['report_type_list']['ChiPhi'] = 'Bảng cân đối kế toán';
+$app_list_strings['report_type_list']['CongNoKhachHang'] = 'Công nợ phải thu';
+$app_list_strings['report_type_list']['Khac'] = 'Khác';
+$app_list_strings['bookkeeping_status_list'] = array(
+    'ChuaDuyet' => 'Chưa duyệt',
+    'DaDuyet' => 'Đã duyệt',
+    'DaHuy' => 'Đã hủy',
+);
+$app_list_strings['reports_status_list'] = array(
+    'ChuaDuyet' => 'Chưa duyệt',
+    'DaDuyet' => 'Đã duyệt',
+    'DaHuy' => 'Đã hủy',
+);
+$app_list_strings['student_status_list'] = array(
+    'DangDoiLop' => 'Đang đợi lớp',
+    'DangHoc' => 'Đang học',
+    'KetThuc' => 'kết thúc',
+    'DaHuy' => 'Đã hủy',
+);
+$app_list_strings['parent_type_display_mindx'] = array(
+    'Bookkeeping' => 'Sổ sách',
+);
+
